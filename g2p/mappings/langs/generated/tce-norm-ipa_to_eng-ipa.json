@@ -1,5 +1,11 @@
 [
     {
+        "in": "\u02b0",
+        "out": "",
+        "context_before": "",
+        "context_after": ""
+    }
+    {
         "in": "p",
         "out": "p",
         "context_before": "",
@@ -842,12 +848,6 @@
     {
         "in": "j",
         "out": "j",
-        "context_before": "",
-        "context_after": ""
-    }
-        {
-        "in": "\u02b0",
-        "out": " ",
         "context_before": "",
         "context_after": ""
     }
