@@ -850,5 +850,11 @@
         "out": "j",
         "context_before": "",
         "context_after": ""
+    },
+    {
+        "in": "'",
+        "out": "",
+        "context_before": "",
+        "context_after": ""
     }
 ]
