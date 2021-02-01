@@ -1,5 +1,17 @@
 [
     {
+        "in": "u\u0303",
+        "out": "\u0169",
+        "context_before": "",
+        "context_after": ""
+    },
+    {
+        "in": "o\u0303",
+        "out": "\F5",
+        "context_before": "",
+        "context_after": ""
+    },
+    {
         "in": "\u02b0",
         "out": "",
         "context_before": "",
