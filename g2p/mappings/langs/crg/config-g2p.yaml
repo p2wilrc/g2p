@@ -28,3 +28,18 @@ mappings:
       - Heather Souter
       - Christopher Cox
     <<: *shared
+  - display_name: Michif Turtle Mountain Dictionary (TMD) to Michif Double Vowel (DV)
+    mapping: crg-tmd-to-dv-full.csv
+    in_lang: crg-tmd
+    out_lang: crg-dv
+    rule_ordering: as-written
+    prevent_feeding: true
+    case_sensitive: false
+    authors:
+      - Fineen Davis
+      - Olivia Sammons
+      - Heather Souter
+      - Christopher Cox
+      - Samantha Cornelius
+      - Jacob Collard
+    <<: *shared
