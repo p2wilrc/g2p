@@ -3,34 +3,46 @@ hch,sch
 ayik,ayik
 
 uhk,ahk
-wun,wan,,\b
+wun,wan,,\s|$
 wy,way
 
 
-oon,ooñ,,\b
+oon,ooñ,,\s|$
 ounn,oon
 inn,in
 enn,en
 onn,on
 ann,an
+gee,gii,\b
+kee,kii,\b
+wee,wii,\b
 een,[een]
-awn,aañ
+awn,[aañ]
 aen,[aen]
-ayn,eeñ
 oun,[oun]
+in,in,,am
 in,[in]
 on,[on]
-nn,n[FR],,\b
+nn,n[FR],,\s|$
+oum,[oum]
 
 
 ou,o,\b,,
 ou,[oo]
+oo,oo,,\s|$
 oo,[oo]
-oow,[own]
+ow,ow,,\s|$
+oow,oow,,\s|$
+oow,[oow]
 ow,[ow]
 ee,ii
 ueu,oeu
 oe,oeu
+ay,ay,,VOWEL
 ay,ee
-aw,aa
+aaw,aaw,,\s|$
+aw,aw,,VOWEL
+aw,aaw,,\s|$
+aw,aa,,STOP
+aw,[aw]
 uy,ay
