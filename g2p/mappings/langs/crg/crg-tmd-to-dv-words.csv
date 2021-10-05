@@ -23,6 +23,10 @@ etikway,eetikwee,\s|^,\s|$
 faem,faam,\s|^,\s|$
 fam,faam,\s|^,\s|$
 feey,fii,\s|^,\s|$
+grous,groos,\s|^,\s|$
+groos,groos,\s|^,\s|$
+grou,groo,\s|^,\s|$
+groo,groo,\s|^,\s|$
 ikou,ikoo,\s|^,\s|$
 inoo,inoo,\s|^,\s|$
 kaw-,kaa-,\s|^,\s|$
@@ -39,6 +43,7 @@ maezoun,meezoñ,\s|^,\s|$
 maizoun,meezoñ,\s|^,\s|$
 mawshkoot,maashkooch,\s|^,\s|$
 mawszhee,maañzhii,\s|^,\s|$
+mitouni,mitoni,\s|^,\s|$
 mitres,metres,\s|^,\s|$
 moo,mooñ,\s|^,\s|$
 mood,mooñd,\s|^,\s|$
@@ -83,6 +88,7 @@ tou,too,\s|^,\s|$
 tou,tooñ,\s|^,\s|$
 toun,tooñ,\s|^,\s|$
 tout,toot,\s|^,\s|$
+toot,toot,\s|^,\s|$
 vyayloon,vyalooñ,\s|^,\s|$
 vyeloon,vyalooñ,\s|^,\s|$
 yootin,yootin,\s|^,\s|$
