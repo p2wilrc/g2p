@@ -1,9 +1,13 @@
+aw,aañ,\s|^,\s|$
 aen,aeñ,\s|^,\s|$
+daen,daeñ,\s|^,\s|$
 akooz,akooz,\s|^,\s|$
 akwawnima,eekwaanima,\s|^,\s|$
+apre,apree,\s|^,\s|$
 aryaen,aryaeñ,\s|^,\s|$
-atikway,eetikwee,\s|^,\s|$
+atikway,eetikwee,\s|^,\s|$..
 atoushkay,atoshkee
+avawn,avaañ,\s|^,\s|$
 awaena,aweena,\s|^,\s|$
 awina,aweena,\s|^,\s|$
 awn,aañ,\s|^,\s|$
@@ -16,8 +20,9 @@ ayow,ayaaw,\s|^,\s|$
 beebee,beebii,\s|^,\s|$
 bitaen,bitaeñ,\s|^,\s|$
 bon,booñ,\s|^,\s|$
+boot,boot,\s|^,\s|$
 boon,booñ,\s|^,\s|$
-bou,booñ,\s|^,\s|$
+bout,boot,\s|^,\s|$
 boun,booñ,\s|^,\s|$
 bwaw,bwaa,\s|^,\s|$
 cheen,chiiñ,\s|^,\s|$
@@ -44,6 +49,7 @@ ikou,ikoo,\s|^,\s|$
 inoo,inoo,\s|^,\s|$
 kaw-,kaa-,\s|^,\s|$
 kaykway,keekway,\s|^,\s|$
+kawndee,kaañdii,\s|^,\s|$
 kawshi,kaashi,\s|^,\s|$
 kawshoow,kaashoow,\s|^,\s|$
 kesyoon,keschyooñ,\s|^,\s|$
@@ -54,6 +60,8 @@ kouhkoum,koohkoom,\s|^,\s|$
 koum,koom,\s|^,\s|$
 koom,koom,\s|^,\s|$
 kour,koor,\s|^,\s|$
+loot,loot,\s|^,\s|$
+lout,lout,\s|^,\s|$
 machine,mashin,\s|^,\s|$
 maen zoon,meezoñ,\s|^,\s|$
 maenzoon,meezoñ,\s|^,\s|$
@@ -74,9 +82,18 @@ moon,mooñ,\s|^,\s|$
 moond,mooñd,\s|^,\s|$
 mou,mooñ,\s|^,\s|$
 moun,mooñ,\s|^,\s|$
+namou,namoo,\s|^,\s|$
+namoo,namoo,\s|^,\s|$
 nawsh,naash,\s|^,\s|$
 noo,noo,\s|^,\s|$
+nou,noo,\s|^,\s|$
+noubr,noombr,\s|^,\s|$
+noombr,noombr,\s|^,\s|$
+noumbr,noombr,\s|^,\s|$
+noobree,noombrii
+noot,noot,\s|^,\s|$
 nook,nooñk,\s|^,\s|$
+nout,noot,\s|^,\s|$
 nouvel,nuuvel,\s|^,\s|$
 nwaer,nwer,\s|^,\s|$
 oo,oo,\s|^,\s|$
@@ -88,12 +105,16 @@ ouschi,oschi,\s|^,\s|$
 oushi,oschi,\s|^,\s|$
 pawndawn,paañdaañ,\s|^,\s|$
 pchee,pchi,\s|^,\s|$
+pool,pool,\s|^,\s|$
+poul,pool,\s|^,\s|$
 pooni,pooni,\s|^,\s|$
 poor,poor,\s|^,\s|$
+poos,poos,\s|^,\s|$
 pooyoo,pooyoo,\s|^,\s|$
 pooyou,pooyoo,\s|^,\s|$
 pouni,pooni,\s|^,\s|$
 pour,poor,\s|^,\s|$
+pous,pous,\s|^,\s|$
 pouyou,pooyoo,\s|^,\s|$
 ptsee,pchi,\s|^,\s|$
 ptsi,pchi,\s|^,\s|$
@@ -127,6 +148,7 @@ tou,tooñ,\s|^,\s|$
 toun,tooñ,\s|^,\s|$
 tout,toot,\s|^,\s|$
 toot,toot,\s|^,\s|$
+trwaw,trwaa
 ushtawn,ushtaan,\s|^,\s|$
 vyawnd,vyaañd,\s|^,\s|$
 vyayloon,vyalooñ,\s|^,\s|$
