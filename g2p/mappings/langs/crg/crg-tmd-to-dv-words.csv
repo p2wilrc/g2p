@@ -2,7 +2,10 @@ aw,aañ,\s|^,\s|$
 aen,aeñ,\s|^,\s|$
 daen,daeñ,\s|^,\s|$
 akooz,akooz,\s|^,\s|$
-akwawnima,eekwaanima,\s|^,\s|$
+ahow,ahow,\s|^,\s|$
+akoushi,akoshi,\s|^,\s|$
+akoush,akoshi,\s|^,\s|$
+anoush,anoosh,\s|^,\s|$
 apre,apree,\s|^,\s|$
 aryaen,aryaeñ,\s|^,\s|$
 atikway,eetikwee,\s|^,\s|$..
@@ -58,6 +61,7 @@ kawshi,kaashi,\s|^,\s|$
 kawshoow,kaashoow,\s|^,\s|$
 keemooch,kiimooch,\s|^,\s|$
 kesyoon,keschyooñ,\s|^,\s|$
+kiyawm,kiyaam,\s|^,\s|$
 koo,koo,\s|^,\s|$
 koohkoom,koohkoom,\s|^,\s|$
 koohkoum,koohkoom,\s|^,\s|$
@@ -176,15 +180,12 @@ zhournee,zhoornii,\s|^,\s|$
 zoot,zoot,\s|^,\s|$
 zout,zoot,\s|^,\s|$
 grawn,graañ,\s|^,\s|$
-kiyanawn,kiyanaan
-niyanawn,niyanaan
-keemooch,kiimooch
-nouhtay,nohtee
-noohtay,nohtee
-a lawntour,alaañtoor
-alawn tour,alaañtoor
-alawntour,alaañtoor
-alawntoor,alaañtoor
-a lawntoor,alaañtoor
-alawn toor,alaañtoor
-miyou,miyo-
+kiyanawn,kiyanaan,,\s|$
+niyanawn,niyanaan,,\s|$
+keemooch,kiimooch,,\s|$
+a lawntour,alaañtoor,,\s|$
+alawn tour,alaañtoor,,\s|$
+alawntour,alaañtoor,,\s|$
+alawntoor,alaañtoor,,\s|$
+a lawntoor,alaañtoor,,\s|$
+alawn toor,alaañtoor,,\s|$

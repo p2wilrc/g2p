@@ -5,11 +5,13 @@ wun,wan,,\s|$
 wy,way
 tout,toot,\s|^,VOWEL
 toot,toot,\s|^,VOWEL
-iyawn,iyaan
+iyawn,iyaan,,\s|$
 ayin,ayin,,\s|$
 kouhk,kohk,,\s|$
-awnawn,aanaan
-aynawn,eenaan
+koohk,kohk,,\s|$
+awnawn,aanaan,,\s|$
+inawn,inaan,,\s|$
+aynawn,eenaan,,\s|$
 kaw-,kaa-,\s|^
 e-,ee-,\s|^
 ewee-,ee-wii-,\s|^
@@ -28,6 +30,12 @@ chiwee-,chi-wii-,\s|^
 gee,gii-,\s|^
 kee,kii-,\s|^
 waw-,waa-,\s|^
+nouhtay,nohtee-
+noohtay,nohtee-
+nouhtay-,nohtee-
+noohtay-,nohtee-
+miyou-,miyo
+miyou,miyo
 ,,,
 ,,,
 ann,an
@@ -45,6 +53,7 @@ aw,aa,,STOP
 aw,aa,STOP,sh
 aw,aa,ht
 aw,aa,t,ch
+aw,aañ,,’d
 aw,aa,STOP,STOP
 uw,aw,,VOWEL
 uw,aa,,ch
