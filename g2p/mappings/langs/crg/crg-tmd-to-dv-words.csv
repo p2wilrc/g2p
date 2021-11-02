@@ -19,6 +19,7 @@ ayaw,ayaaw,\s|^,\s|$
 ayow,ayaaw,\s|^,\s|$
 baw,baañ,\s|^,\s|$
 bawn,baañ,\s|^,\s|$
+baen,baeñ,\s|^,\s|$
 beebee,beebii,\s|^,\s|$
 bitaen,bitaeñ,\s|^,\s|$
 bon,booñ,\s|^,\s|$
@@ -70,12 +71,13 @@ kour,koor,\s|^,\s|$
 loot,loot,\s|^,\s|$
 lout,lout,\s|^,\s|$
 machine,mashin,\s|^,\s|$
-maen zoon,meezoñ,\s|^,\s|$
-maenzoon,meezoñ,\s|^,\s|$
-maezoun,meezoñ,\s|^,\s|$
-maizoun,meezoñ,\s|^,\s|$
-maenzoun,meezoñ,\s|^,\s|$
-mawn,maañ
+maen,maeñ,\s|^,\s|$
+maen zoon,meezooñ,\s|^,\s|$
+maenzoon,meezooñ,\s|^,\s|$
+maezoun,meezooñ,\s|^,\s|$
+maizoun,meezooñ,\s|^,\s|$
+maenzoun,meezooñ,\s|^,\s|$
+mawn,maañ,\s|^,\s|$
 mawchi,maachi,\s|^,\s|$
 mawshkoot,maashkooch,\s|^,\s|$
 mawszhee,maañzhii,\s|^,\s|$
@@ -113,6 +115,7 @@ ouhchi,oschi,\s|^,\s|$
 ouschi,oschi,\s|^,\s|$
 oushi,oschi,\s|^,\s|$
 pawndawn,paañdaañ,\s|^,\s|$
+pawn dawn,paañdaañ,\s|^,\s|$
 pchee,pchi,\s|^,\s|$
 poo,poo,\s|^,\s|$
 pool,pool,\s|^,\s|$
@@ -151,6 +154,7 @@ tawnday,tawndee,\s|^,\s|$
 tawnshi,taanshi,\s|^,\s|$
 tawr,taar,\s|^,\s|$
 tea,tii,\s|^,\s|$
+toor,toor,\s|^,\s|$
 tool,tool,\s|^,\s|$
 toul,tool,\s|^,\s|$
 toon,tooñ,\s|^,\s|$
@@ -172,3 +176,15 @@ zhournee,zhoornii,\s|^,\s|$
 zoot,zoot,\s|^,\s|$
 zout,zoot,\s|^,\s|$
 grawn,graañ,\s|^,\s|$
+kiyanawn,kiyanaan
+niyanawn,niyanaan
+keemooch,kiimooch
+nouhtay,nohtee
+noohtay,nohtee
+a lawntour,alaañtoor
+alawn tour,alaañtoor
+alawntour,alaañtoor
+alawntoor,alaañtoor
+a lawntoor,alaañtoor
+alawn toor,alaañtoor
+miyou,miyo-
