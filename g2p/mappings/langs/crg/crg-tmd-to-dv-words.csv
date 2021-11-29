@@ -1,21 +1,28 @@
 aw,aañ,\s|^,\s|$
 aen,aeñ,\s|^,\s|$
+ahikawshoow,ahikawshoow,\s|^,\s|$
 daen,daeñ,\s|^,\s|$
 akooz,akooz,\s|^,\s|$
-ahow,ahow,\s|^,\s|$
+ahow,ahaw,\s|^,\s|$
 akoushi,akoshi,\s|^,\s|$
 akoush,akoshi,\s|^,\s|$
 anoush,anoosh,\s|^,\s|$
+anoosh,anoosh,\s|^,\s|$
+atawway,ataawee,\s|^,\s|$
 apre,apree,\s|^,\s|$
 aryaen,aryaeñ,\s|^,\s|$
-atikway,eetikwee,\s|^,\s|$..
-atoushkay,atoshkee
+atikway,eetikwee,\s|^,\s|$
+atoushkay,atoshkee,\s|^,\s|$
+awhkoushi,aahkoshi,\s|^,\s|$
+ayeshkoushi,ayeshkoshi,\s|^,\s|$
 avawn,avaañ,\s|^,\s|$
 awaena,aweena,\s|^,\s|$
 awina,aweena,\s|^,\s|$
 awn,aañ,\s|^,\s|$
 awnfawn,aañfaañ
 awta,aata,\s|^,\s|$
+ashtaywa,ashteewa,\s|^,\s|$
+apisheesh,apishiish,\s|^,\s|$
 ayawhk,ayaahk,\s|^,\s|$
 ayaaw,ayaaw,\s|^,\s|$
 ayaw,ayaaw,\s|^,\s|$
@@ -59,7 +66,9 @@ kaykway,keekway,\s|^,\s|$
 kawndee,kaañdii,\s|^,\s|$
 kawshi,kaashi,\s|^,\s|$
 kawshoow,kaashoow,\s|^,\s|$
+kawshoo,kaashoo,\s|^,\s|$
 keemooch,kiimooch,\s|^,\s|$
+keeyawm,kiiyaam,\s|^,\s|$
 kesyoon,keschyooñ,\s|^,\s|$
 kiyawm,kiyaam,\s|^,\s|$
 koo,koo,\s|^,\s|$
@@ -85,6 +94,7 @@ mawn,maañ,\s|^,\s|$
 mawchi,maachi,\s|^,\s|$
 mawshkoot,maashkooch,\s|^,\s|$
 mawszhee,maañzhii,\s|^,\s|$
+mawnzhee,maañzhii,\s|^,\s|$
 mawyi,maayi,\s|^,\s|$
 mitouni,mitoni,\s|^,\s|$
 mitres,metres,\s|^,\s|$
@@ -98,8 +108,10 @@ moun,mooñ,\s|^,\s|$
 namou,namoo,\s|^,\s|$
 namoo,namoo,\s|^,\s|$
 nawsh,naash,\s|^,\s|$
+naw,naañ,\s|^,\s|$
 noo,noo,\s|^,\s|$
 nou,noo,\s|^,\s|$
+nawkwun,naakwan,\s|^,\s|$
 noubr,noombr,\s|^,\s|$
 noombr,noombr,\s|^,\s|$
 noumbr,noombr,\s|^,\s|$
@@ -111,7 +123,9 @@ nook,nooñk,\s|^,\s|$
 nout,noot,\s|^,\s|$
 nouvel,nuuvel,\s|^,\s|$
 nwaer,nwer,\s|^,\s|$
-oo,oo,\s|^,\s|$
+nwaenr,nwer,\s|^,\s|$
+oo,o,\s|^,\s|$
+ou,o,\s|^,\s|$
 ooshawm,oshaam,\s|^,\s|$
 oota,ota,\s|^,\s|$
 ou,oo,\s|^,\s|$
@@ -140,6 +154,7 @@ roon,rooñ,\s|^,\s|$
 roozh,ruuzh,\s|^,\s|$
 saprawn,sapraañ,\s|^,\s|$
 sawn,saañ,\s|^,\s|$
+saen,saeñ,\s|^,\s|$
 seur,soeur,\s|^,\s|$
 shaw,shaa,\s|^,\s|$
 shawm,shaam,\s|^,\s|$
@@ -167,7 +182,7 @@ tou,tooñ,\s|^,\s|$
 toun,tooñ,\s|^,\s|$
 tout,toot,\s|^,\s|$
 toot,toot,\s|^,\s|$
-trwaw,trwaa
+taen,taeñ,\s|^,\s|$
 ushtawn,ushtaan,\s|^,\s|$
 vyawnd,vyaañd,\s|^,\s|$
 vyayloon,vyalooñ,\s|^,\s|$
@@ -189,3 +204,8 @@ alawntour,alaañtoor,,\s|$
 alawntoor,alaañtoor,,\s|$
 a lawntoor,alaañtoor,,\s|$
 alawn toor,alaañtoor,,\s|$
+tawnpet,taañpet,,\s|$
+inawkoushiw,inaakooshiw,,\s|$
+nawnduw,naandaw,,\s|$
+kitshimout,kitishimout,,\s|$
+sartaen,sartaeñ,\s|^,\s|$
