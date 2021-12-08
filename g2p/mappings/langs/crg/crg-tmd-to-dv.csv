@@ -26,17 +26,18 @@ oo,oo,,ht
 oo,oo,,hk
 oo,oo,zh,r
 oo,oo,y,t
-oo,oo,[\s|^]t,t[VOWEL]
-oo,o,k,[hk][\s|$]
+oo,oo,[\s|^]t,t(VOWEL)
+oo,o,k,hk(\s|$)
 ou,o,\s|^,sh
 ou,oo,zh,r
 ou,oo,y,ht
 ou,oo,y,t
 oo,oo,,l
-ou,oo,t,t[VOWEL]
-ou,o,k,[hk][\s|$]
-ou,o,k,[k][\s|$]
-ou,o,m,[t][\s|$]
+ou,oo,t,t(VOWEL)
+ou,o,k,hk(\s|$)
+ou,o,k,k(\s|$)
+ou,o,m,t(\s|$)
+aw,aa,,m
 
 
 aww,aaw
@@ -53,7 +54,10 @@ in,in,hp
 in,in,hk
 awn,aañ,s
 awn,aañ,sh
-aen,aeñ,shy,n
+aen,aeñ,y,\s|$
+aen,aeñ,v,\s|$
+aen,aeñ,z,\s|$
+aen,aeñ,w,\s|$
 awn,aañ,v
 awn,aan,ht
 awn,aan,hk
@@ -88,6 +92,7 @@ inn,in
 oe,oeu
 onn,on
 ounn,oon
+wow,waaw,,\s|$
 oow,oow,,\s|$
 ow,aw,,\s|$
 e,ee,\s|^,-
