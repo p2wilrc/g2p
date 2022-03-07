@@ -47,14 +47,24 @@ class LangTest(TestCase):
         # running test_langs.py prints all the errors at once, to help debugging a given g2p mapping.
         # Then we call assertEqual on the first failed case, to make unittest register the failure.
         error_count = 0
-        for test in self.langs_to_test:
-            transducer = make_g2p(test[0], test[1])
-            output_string = transducer(test[2]).output_string.strip()
-            if output_string != test[3].strip():
-                LOGGER.warning("test_langs.py: mapping error: {} from {} to {} should be {}, got {}".format(test[2], test[0], test[1], test[3], output_string))
-                if error_count == 0:
-                    first_failed_test = test
-                error_count += 1
+        with open('test_results.csv', 'w', newline='') as outfile:
+            writer = csv.writer(outfile)
+            writer.writerow(['input', 'predicted', 'target', 'correct'])
+            for test in self.langs_to_test:
+                result = {}
+                transducer = make_g2p(test[0], test[1])
+                output_string = transducer(test[2]).output_string.strip()
+                if test[0] == 'crg-tmd':
+                    output_string = output_string.lower()
+                    result = [test[2], output_string, test[3], True]
+                if output_string != test[3].strip():
+                    result[-1] = False
+                    LOGGER.warning("test_langs.py: mapping error: {} from {} to {} should be {}, got {}".format(test[2], test[0], test[1], test[3], output_string))
+                    if error_count == 0:
+                        first_failed_test = test
+                    error_count += 1
+                if test[0] == 'crg-tmd':
+                    writer.writerow(result)
 
         if error_count > 0:
             transducer = make_g2p(first_failed_test[0], first_failed_test[1])
