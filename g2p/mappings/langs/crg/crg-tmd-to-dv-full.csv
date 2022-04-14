@@ -236,6 +236,7 @@ touht,toht,,\s|$
 
 in,in,,VOWEL
 aw,aw,,VOWEL
+ay,ee
 ay,ay,,VOWEL
 uw,aw,,VOWEL
 aw,aa,STOP,STOP
@@ -318,7 +319,7 @@ wuk,wak,,\s|$
 tum,tam,,\s|$
 wy,way
 ann,an
-ay,ee
+
 ee,ii
 enn,en
 inn,in
