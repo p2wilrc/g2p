@@ -22,6 +22,7 @@ mappings:
     rule_ordering: as-written
     prevent_feeding: true
     case_sensitive: false
+    abbreviations: abbreviations.csv
     authors:
       - Fineen Davis
       - Olivia Sammons
@@ -35,6 +36,7 @@ mappings:
     rule_ordering: as-written
     prevent_feeding: true
     case_sensitive: false
+    abbreviations: abbreviations.csv
     authors:
       - Fineen Davis
       - Olivia Sammons
