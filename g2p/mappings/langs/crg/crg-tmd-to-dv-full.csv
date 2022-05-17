@@ -258,7 +258,7 @@ yinwa,yinwa,,\s|$
 ikouhk,ikohk,,\s|$
 ikoohk,ikohk,,\s|$
 stawm,staam,,\s|$
-ayistam,eeeyistam,,\s|$
+ayistam,eeyistam,,\s|$
 ouwuk,owak,,\s|$
 touht,toht,,\s|$
 huk,hak,,\s|$
@@ -303,6 +303,7 @@ aw,aa,ht
 aw,aa,hk
 aw,aa,,h
 aw,aa,,r
+aw,aa,,t(\s|$)
 aw,aa,,shk
 aw,aa,,sht
 aw,aa,,shp
