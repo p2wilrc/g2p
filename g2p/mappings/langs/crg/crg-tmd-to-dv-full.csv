@@ -40,7 +40,8 @@ bout,boot,\s|^,\s|$
 boun,booñ,\s|^,\s|$
 bwaw,bwaa,\s|^,\s|$
 cheen,chiiñ,\s|^,\s|$
-yeen,yiiñ,\s|^,\s|$
+yeen,yiiñ
+kayawsh,kayaash
 da,daañ,\s|^,\s|$
 daw,daañ,\s|^,\s|$
 dawn,daañ,\s|^,\s|$
@@ -273,8 +274,8 @@ zhawn,zhaañ
 zhamaen,zhamaeñ
 mwawn,mwaan
 in,in,,VOWEL
-aw,aw,,VOWEL
 ay,ay,,VOWEL
+aw,aw,,VOWEL
 ay,ee
 awn,aan,yy,\s|$
 awn,aañ,s
@@ -375,8 +376,8 @@ inn,in
 oe,oeu
 onn,on
 ounn,oon
-wow,waaw,,\s|$
 oow,oow,,\s|$
+ow,aaw,w,\s|$
 ow,aw,,\s|$
 e,ee,\s|^,-
 een,[een]
