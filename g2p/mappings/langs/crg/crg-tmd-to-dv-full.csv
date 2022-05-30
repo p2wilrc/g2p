@@ -266,6 +266,8 @@ huk,hak,,\s|$
 ouhk,ohk,,\s|$
 uhk,ahk
 awshin,aashin,,\s|$
+away,away,,VOWEL
+ayaw,ayaw,,VOWEL
 
 wawn,waan
 lawn,laañ
@@ -377,7 +379,7 @@ oe,oeu
 onn,on
 ounn,oon
 oow,oow,,\s|$
-ow,aaw,w,\s|$
+wow,aaw,\s|$
 ow,aw,,\s|$
 e,ee,\s|^,-
 een,[een]
