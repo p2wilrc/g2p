@@ -266,8 +266,8 @@ huk,hak,,\s|$
 ouhk,ohk,,\s|$
 uhk,ahk
 awshin,aashin,,\s|$
-away,away,,VOWEL
-ayaw,ayaw,,VOWEL
+away,away,~(\s|^),VOWEL
+ayaw,ayaw,~(\s|^),VOWEL
 
 wawn,waan
 lawn,laañ
