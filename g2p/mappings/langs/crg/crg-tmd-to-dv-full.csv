@@ -276,6 +276,8 @@ zhawn,zhaañ
 zhamaen,zhamaeñ
 mwawn,mwaan
 in,in,,VOWEL
+wow,waaw,\s|$
+ow,aw,,\s|$
 ay,ay,,VOWEL
 aw,aw,,VOWEL
 ay,ee
@@ -336,6 +338,7 @@ ou,oo,t,t(VOWEL)
 ou,o,k,hk(\s|$)
 ou,o,k,k(\s|$)
 ou,o,m,t(\s|$)
+oow,oow,,\s|$
 aw,aa,,m
 aww,aaw
 oon,ooñ,z
@@ -378,9 +381,6 @@ inn,in
 oe,oeu
 onn,on
 ounn,oon
-oow,oow,,\s|$
-wow,waaw,\s|$
-ow,aw,,\s|$
 e,ee,\s|^,-
 een,[een]
 awn,[awn]
