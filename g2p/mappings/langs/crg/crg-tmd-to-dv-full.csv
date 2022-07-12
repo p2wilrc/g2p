@@ -270,7 +270,11 @@ awshin,aashin,,\s|$
 away,away,~(\s|^),VOWEL
 ayaw,ayaw,~(\s|^),VOWEL
 
-
+main,maeñ
+tawnima,taanima,
+awwuk,aawak
+dawn,dawñ,,\s|^
+kaw-,kaa-,,\s|^
 wawn,waan
 lawn,laañ
 rawn,raañ
