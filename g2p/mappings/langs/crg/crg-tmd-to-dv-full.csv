@@ -268,6 +268,7 @@ ouhk,ohk,,\s|$
 uhk,ahk
 awshin,aashin,,\s|$
 away,away,~(\s|^),VOWEL
+ayaw,ayaa,,w
 ayaw,ayaw,~(\s|^),VOWEL
 
 main,maeñ
@@ -376,7 +377,7 @@ kun,kan
 wun,wan
 wuk,wak
 tum,tam,,\s|$
-wy,way
+wy,way,,\s|$
 ann,an
 ee,ii
 enn,en
