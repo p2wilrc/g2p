@@ -14,6 +14,7 @@ aryaen,aryaeñ,\s|^,\s|$
 atikway,eetikwee,\s|^,\s|$
 atoushkay,atoshkee,\s|^,\s|$
 awhkoushi,aahkoshi,\s|^,\s|$
+ayawow,ayawaaw
 ayeshkoushi,ayeshkoshi,\s|^,\s|$
 avawn,avaañ,\s|^,\s|$
 awaena,aweena,\s|^,\s|$
@@ -267,8 +268,14 @@ ouhk,ohk,,\s|$
 uhk,ahk
 awshin,aashin,,\s|$
 away,away,~(\s|^),VOWEL
+ayaw,ayaa,,w
 ayaw,ayaw,~(\s|^),VOWEL
 
+main,maeñ
+tawnima,taanima,
+awwuk,aawak
+dawn,dawñ,,\s|^
+kaw-,kaa-,,\s|^
 wawn,waan
 lawn,laañ
 rawn,raañ
@@ -373,7 +380,7 @@ kun,kan
 wun,wan
 wuk,wak
 tum,tam,,\s|$
-wy,way
+wy,way,,\s|$
 ann,an
 ee,ii
 enn,en
