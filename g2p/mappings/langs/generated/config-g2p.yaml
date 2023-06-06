@@ -129,7 +129,7 @@ mappings:
     reverse: false
     rule_ordering: as-written
   - authors:
-      - Generated 2023-06-06 16:36:33.447726
+      - Generated 2023-06-06 16:56:29.337967
     case_sensitive: false
     display_name: crg-ipa IPA to eng-ipa IPA
     escape_special: false

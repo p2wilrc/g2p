@@ -1,5 +1,7 @@
 g,ŋ,n
 nn,n,VOWEL
+ce,s,,\b
+c,s,,[ie]
 aen,ɛ̃ː
 oow,oaw
 ow,aw
@@ -26,3 +28,8 @@ i,ɪ
 j,dʒ
 y,j
 a,a
+g,ɡ
+r,r
+ck,k
+c,k
+x,ks
