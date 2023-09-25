@@ -29,7 +29,7 @@ mappings:
       - Christopher Cox
     <<: *shared
   - display_name: Michif Turtle Mountain Dictionary (TMD) to Michif Double Vowel (DV)
-    mapping: crg-tmd-to-dv-full.csv
+    rules_path: crg-tmd-to-dv-full.csv
     in_lang: crg-tmd
     out_lang: crg-dv
     rule_ordering: as-written
